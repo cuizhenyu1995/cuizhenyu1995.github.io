@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Cui Zhenyu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a fourth-year Ph.D. student at [Wangxuan Institute of Computer Technology](https://www.wict.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Previously, I obtained my M.Sc. in Computer Application Technology from the [School of Computer Science and Technology](https://scce.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/) in June 2021, and B.Sc. in Computer Science and Technology from the [School of Computer and Communication Engineering](https://computer.upc.edu.cn/), [China University of Petroleum (East China)](https://www.upc.edu.cn/) in June 2018. I have published more than 10 papers in artificial intelligence and computer vision journals and conference proceedings. I have also served as a reviewer for many international conferences and journals, such as CVPR, ICCV, NeurIPS, ICLR, ECCV, IEEE TIP, TIFS, TCSVT, TMM, etc. In addition, I serve as a member of the program committee of the international conferences ICONIP, WI-IAT, etc.
 
 A data-driven personal website
 ======
